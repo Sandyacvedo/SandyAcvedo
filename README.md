@@ -7,7 +7,6 @@
 - 🌱 &nbsp; Learning more about web development and Systems Design.
 - ✍️ &nbsp; Pursuing Graphic Design.
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/51434989/128624297-cb2df124-f583-4c5d-949b-bb5e1af17478.gif" />
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/51434989/128624451-2b743ef8-4817-4836-a89e-9b016c3df810.gif" />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
