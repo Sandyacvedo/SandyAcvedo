@@ -6,8 +6,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about web development and Systems Design.
 - ✍️ &nbsp; Pursuing Graphic Design.
-<img width="35%" align="right" alt="Github" src="https://www.markchen.tech/static/typing-66efd0876b52520d0a71eaaedf77225c.gif" />
-
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/51434989/128624297-cb2df124-f583-4c5d-949b-bb5e1af17478.gif" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/51434989/128624451-2b743ef8-4817-4836-a89e-9b016c3df810.gif" />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -35,7 +35,7 @@
 <br/>
 
 <a href="https://github.com/sandyacvedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandyacvedo&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandyacvedo&theme=react_icons=true" />
 </a>
 
 <br/>
